@@ -1,0 +1,14 @@
+{
+  "name": "testingjs",
+  "version": "1.0.0",
+  "description": "testingJS",
+  "main": "testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rizqy",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
